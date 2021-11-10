@@ -21,5 +21,5 @@ echo "B1" > /var/www/html/index.html
 ```
 
 ```
-echo "B1" > /var/www/html/index.html
+echo "B2" > /var/www/html/index.html
 ```
