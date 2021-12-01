@@ -1,3 +1,8 @@
+# NEver User root account
+
+# follow least privilige principle
+
+
 ## Policies Structure
 
 Consists of
