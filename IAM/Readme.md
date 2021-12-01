@@ -1,6 +1,4 @@
-# NEver User root account
 
-# follow least privilige principle
 
 
 ## Policies Structure
@@ -53,3 +51,10 @@ Statements consists of
     ]
 }
 ```
+
+
+# Interview questions
+
+- NEver User root account
+- follow least privilige principle
+
