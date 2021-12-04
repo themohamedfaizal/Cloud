@@ -1,4 +1,4 @@
-Hands-On:
+# Hands-On:
 
 Launching an EC2 Instance running Linux
 
@@ -7,7 +7,7 @@ Launching an EC2 Instance running Linux
     We’ll see that our web server is launched using EC2 user data
     We’ll learn how to start / stop / terminate our instance. -(IP changes on reboot) use http service as example. secure and not secure.
 
-User script:
+# User script:
 
 ```bash
 #!/bin/bash
