@@ -1,6 +1,6 @@
 # Resume headline
 
-Having strong knowledge in AWs services like VPC, EC2, ELB, SNS, Route53, ASG, IAM, SQS, Security, RDS. with one year experience in <field>
+Having strong knowledge in AWs services like VPC, EC2, ELB, SNS, Route53, ASG, IAM, SQS, Security, RDS. AWS Solution Architect with one year experience in <field>
 
 ## Roles and Resp
   
