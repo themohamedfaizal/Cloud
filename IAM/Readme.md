@@ -12,11 +12,14 @@
 - Creating user and group
 - Giving them permissions to access various AWS services.
 
+# Permissions and Policies in IAM
+
+- When you create an user in AWS, the user will not have any permissions.
+- Only when we assign policies to them, they would be able to access the AWS services.
+- Try creating an User and giving them permissions.
 
 
-
-
-## Policies Structure
+## Understanding the Policies Structure
 
 Consists of
 - Version: policy language version, always include “2012-10-17”
@@ -67,9 +70,12 @@ Statements consists of
 }
 ```
 
+# Gorup Inheritance.
+
+
 
 # Interview questions
 
-- NEver User root account
+- Never User root account
 - follow least privilige principle
 
