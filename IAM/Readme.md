@@ -1,3 +1,18 @@
+# IAM ( Indentity Access Management)
+
+    It is a free service that is used for user and group creation.
+
+- login with the email ID and password that was used during the account creation stage.
+- This account is called as the root account and it has access to all the services.
+- Its recommended to not use it further or share it with anyone.
+
+IAM Hands on:
+
+- IAM is a Global service
+- Creating user and group
+- Giving them permissions to access various AWS services.
+
+
 
 
 
