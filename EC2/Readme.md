@@ -17,3 +17,12 @@ systemctl start httpd
 systemctl enable httpd
 echo "<h1>Welcome to $(hostname -f)</h1>" > /var/www/html/index.html
 ```
+
+```bash
+            #!/bin/bash
+            yum install httpd -y
+            yum install git -y
+            service httpd start
+            git clone https://github.com/themohamedfaizal/SampleWebpage.git
+            cp SampleWebpage/index.html /var/www/html 
+```
